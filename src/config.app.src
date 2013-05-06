@@ -1,0 +1,7 @@
+{application, config,
+ [
+  {description, "Access config variables from different sources"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [kernel,stdlib]}
+ ]}.
